@@ -12,8 +12,13 @@
     .contact-info {
         line-height: 2;
     }
+    
+    .contact-submit-btn {
+        font-size: 17px;
+    }
+
     .socials-list {
-        font-size: 42px;
+        font-size: 48px;
     }
     #footer .socials-list a {
         margin: 0 8px;
